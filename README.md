@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+Reviewed/compared code. Found in line 29 "Search Engine Optimization" link on webpage was missing unique identifier (ID) added     <div id="search-engine-optimization", saved index.html abd relaunched website to confirm link was functioning
